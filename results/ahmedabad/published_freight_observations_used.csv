@@ -1,0 +1,15 @@
+metric,value,unit,reference_year,geography,data_status,source
+freight_vehicles_crossing_cordon,34182,vehicles_per_day,2006,Ahmedabad,evidence_based,"Swamy & Baindur (2014), citing CVC survey"
+freight_vehicles_crossing_cordon_estimated,48485,vehicles_per_day,2012,Ahmedabad,evidence_based,"Swamy & Baindur (2014), 6% compounded annual growth estimate from 2006"
+external_to_internal_share,34,percent,2012,Ahmedabad,evidence_based,Swamy & Baindur (2014)
+internal_to_external_share,29,percent,2012,Ahmedabad,evidence_based,Swamy & Baindur (2014)
+industrial_properties,55000,properties,2011,Ahmedabad,evidence_based,"Swamy & Baindur (2014), AMC property-tax data"
+transport_warehouse_properties,29000,properties,2011,Ahmedabad,evidence_based,"Swamy & Baindur (2014), AMC property-tax data"
+industrial_units_city,135025,industrial_units,2021,Ahmedabad,evidence_based,Planning Framework for Low Emission Zone in Core Areas of Indian Cities
+vatva_odhav_naroda_units,8700,industrial_units,2021,Vatva/Odhav/Naroda,evidence_based,Planning Framework for Low Emission Zone in Core Areas of Indian Cities
+transport_warehouse_properties_2021,39000,properties,2021,Ahmedabad,evidence_based,Planning Framework for Low Emission Zone in Core Areas of Indian Cities
+vatva_naroda_odhav_trucks,1500,trucks_per_day,study survey period,Ahmedabad,evidence_based,Swamy & Baindur (2014)
+aslali_warehouse_flow,2180,vehicles_per_day,study_period,Aslali,evidence_based,Swamy & Baindur (2014)
+sarkhej_warehouse_flow,1133,vehicles_per_day,study_period,Sarkhej,evidence_based,Swamy & Baindur (2014)
+narol_warehouse_flow,755,vehicles_per_day,study_period,Narol,evidence_based,Swamy & Baindur (2014)
+warehouse_cluster_flow_total,4313,vehicles_per_day,study_period,Aslali/Sarkhej/Narol,evidence_based,Swamy & Baindur (2014)

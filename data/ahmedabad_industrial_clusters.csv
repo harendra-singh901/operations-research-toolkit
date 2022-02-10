@@ -1,0 +1,5 @@
+cluster,area_ha,manufacturing_units,trucks_per_day,reference_year,data_status,source
+Vatva,528,2500,600,study_period,evidence_based,"Swamy & Baindur (2014)"
+Naroda,337,850,600,study_period,evidence_based,"Swamy & Baindur (2014)"
+Odhav,127,1200,,study_period,evidence_based,"Swamy & Baindur (2014); direct truck figure not separately reported in the cited table"
+Total_Vatva_Naroda_Odhav,992,4550,1500,study_period,evidence_based,"Swamy & Baindur (2014)"
